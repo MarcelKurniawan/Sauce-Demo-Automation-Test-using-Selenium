@@ -2,7 +2,7 @@
 
 ## 📚 Description 📚
 ### **Sauce Demo Automation Test using Selenium**
-#### This project demonstrates how to automate web tests for the Sauce Demo application using Selenium WebDriver. It serves as a starting point for understanding automated web testing with Selenium and provides a real-world example for developers and testers.
+#### This project demonstrates automate web tests for the Sauce Demo application using Selenium WebDriver.
 
 #### Features:
 * Automates login functionality with valid credentials.
